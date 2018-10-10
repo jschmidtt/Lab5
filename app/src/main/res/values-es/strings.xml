@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Laboratorio 5</string>
-    <string name="title_one">Palette Activity</string>
+    <string name="title_one">Actividad De La Paleta</string>
     <string name="title_two">Canvas Activity</string>
     <string-array name="colors_array_display">
         <item>Blanco</item>
