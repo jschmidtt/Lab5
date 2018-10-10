@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratorio 5</string>
+    <string name="title_one">Palette Activity</string>
+    <string name="title_two">Canvas Activity</string>
+    <string-array name="colors_array_display">
+        <item>Blanco</item>
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Cian</item>
+        <item>Gris</item>
+    </string-array>
+    <string-array name="colors_array">
+        <item>White</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Cyan</item>
+        <item>Gray</item>
+    </string-array>
+</resources>
